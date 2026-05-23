@@ -2,7 +2,7 @@ import { motion } from "framer-motion";
 import { MessageCircle, Snowflake } from "lucide-react";
 import { Button } from "@/components/ui/button";
 
-const WA = "https://wa.me/6281234567890?text=Halo%20FAZR%20AC%2C%20AC%20saya%20tidak%20dingin";
+const WA = "https://wa.me/6283898216494?text=Halo%20FAZR%20AC%2C%20saya%20ingin%20booking%20service%20AC";
 
 export function CTA() {
   return (

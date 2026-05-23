@@ -41,7 +41,7 @@ export const Route = createFileRoute("/")({
 });
 
 function Index() {
-  const WA = "https://wa.me/6281234567890?text=Halo%20FAZR%20AC";
+  const WA = "https://wa.me/6283898216494?text=Halo%20FAZR%20AC";
   return (
     <div className="relative">
       <Navbar />

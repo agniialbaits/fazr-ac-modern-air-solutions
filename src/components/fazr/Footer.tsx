@@ -44,9 +44,9 @@ export function Footer() {
         <div>
           <h4 className="mb-4 text-sm font-semibold uppercase tracking-wider text-white/90">Kontak</h4>
           <ul className="space-y-3 text-sm text-white/75">
-            <li className="flex items-start gap-2"><Phone className="mt-0.5 size-4 text-electric" /> +62 812-3456-7890</li>
-            <li className="flex items-start gap-2"><Mail className="mt-0.5 size-4 text-electric" /> halo@fazrac.id</li>
-            <li className="flex items-start gap-2"><MapPin className="mt-0.5 size-4 text-electric" /> Jakarta & Sekitarnya</li>
+            <li className="flex items-start gap-2"><Phone className="mt-0.5 size-4 text-electric" /> +62 838-9821-6494</li>
+            <li className="flex items-start gap-2"><Mail className="mt-0.5 size-4 text-electric" /> acfazr@gmail.com</li>
+            <li className="flex items-start gap-2"><MapPin className="mt-0.5 size-4 text-electric" /> Sumedang & Sekitarnya</li>
           </ul>
         </div>
 

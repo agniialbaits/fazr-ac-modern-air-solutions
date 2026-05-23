@@ -4,7 +4,7 @@ import { Button } from "@/components/ui/button";
 import heroCar from "@/assets/hero-car-ac.jpg";
 import heroRoom from "@/assets/hero-room-ac.jpg";
 
-const WA = "https://wa.me/6281234567890?text=Halo%20FAZR%20AC";
+const WA_URL = "https://wa.me/6283898216494?text=Halo%20FAZR%20AC%2C%20saya%20ingin%20booking%20service%20AC";
 
 export function Hero() {
   return (
@@ -43,7 +43,7 @@ export function Hero() {
 
           <div className="flex flex-wrap gap-3">
             <Button asChild size="xl" variant="brand">
-              <a href={WA} target="_blank" rel="noreferrer">
+              <a href={WA_URL} target="_blank" rel="noreferrer">
                 <MessageCircle className="size-5" />
                 Booking Sekarang
               </a>
@@ -60,7 +60,7 @@ export function Hero() {
             {[
               { icon: Zap, label: "Fast Response" },
               { icon: ShieldCheck, label: "Bergaransi" },
-              { icon: Wrench, label: "Teknisi Profesional" },
+              { icon: Wrench, label: "Teknisi Profesional lebih dari 10 tahun" },
             ].map((b) => (
               <div key={b.label} className="flex items-center gap-2 rounded-full bg-white/70 px-3 py-1.5 text-xs font-medium text-navy shadow-soft ring-1 ring-electric/10">
                 <b.icon className="size-3.5 text-electric" />
@@ -80,7 +80,7 @@ export function Hero() {
             <img src={heroCar} alt="Teknisi service AC mobil" className="h-full w-full object-cover" width={1280} height={896} />
           </div>
           <div className="absolute bottom-0 left-0 h-[55%] w-[62%] overflow-hidden rounded-3xl shadow-soft ring-4 ring-white">
-            <img src={heroRoom} alt="Teknisi service AC ruangan" className="h-full w-full object-cover" width={1280} height={896} loading="lazy" />
+            <img src="/src/assets/herosection.png" alt="Teknisi service AC ruangan" className="h-full w-full object-cover" width={1280} height={896} loading="lazy" />
           </div>
 
           {/* floating glass badge */}

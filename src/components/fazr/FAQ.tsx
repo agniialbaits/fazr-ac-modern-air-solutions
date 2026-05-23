@@ -4,10 +4,10 @@ import {
 } from "@/components/ui/accordion";
 
 const faqs = [
-  { q: "Berapa lama waktu service AC?", a: "Tergantung jenis service. Cuci AC standar 30–60 menit. Service besar atau bongkar pasang 1–2 jam." },
-  { q: "Apakah ada garansi?", a: "Ya. Kami memberikan garansi service hingga 30 hari untuk pengerjaan dan sparepart." },
-  { q: "Bisa panggilan ke rumah?", a: "Tentu. Kami melayani panggilan ke rumah, kantor, kafe, dan workshop tanpa biaya transport untuk area kota." },
-  { q: "Melayani area mana saja?", a: "Kami melayani Jabodetabek dan sekitarnya. Hubungi kami untuk konfirmasi area." },
+  { q: "Berapa lama waktu service AC?", a: "Tergantung jenis service" },
+  { q: "Apakah ada garansi?", a: "Ya. Kami memberikan garansi service hingga 15 hari untuk pengerjaan dan sparepart." },
+  { q: "Bisa panggilan ke rumah?", a: "Tentu. Kami melayani panggilan ke rumah, kantor, kafe, dan workshop tanpa biaya transport untuk area Sumedang." },
+  { q: "Melayani area mana saja?", a: "Kami melayani Sumedang, Bandung dan sekitarnya. Hubungi kami untuk konfirmasi area." },
   { q: "Melayani semua tipe AC mobil?", a: "Ya. Semua merek dan tipe — Toyota, Honda, Suzuki, Daihatsu, Mitsubishi, hingga mobil Eropa." },
 ];
 

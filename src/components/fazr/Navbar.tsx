@@ -13,7 +13,7 @@ const links = [
   { href: "#kontak", label: "Kontak" },
 ];
 
-const WA_URL = "https://wa.me/6281234567890?text=Halo%20FAZR%20AC%2C%20saya%20ingin%20booking%20service%20AC";
+const WA_URL = "https://wa.me/6283898216494?text=Halo%20FAZR%20AC%2C%20saya%20ingin%20booking%20service%20AC";
 
 export function Navbar() {
   const [scrolled, setScrolled] = useState(false);
